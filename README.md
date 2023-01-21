@@ -12,7 +12,7 @@
   <img align="left" alt="gfg" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Parth0105.Parth0105)
+![](https://visitor-badge.glitch.me/badge?page_id=aasifqadir)
 </br>
 
 ## Languages and Tools:  
