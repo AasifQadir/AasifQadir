@@ -34,13 +34,12 @@
 </br>
 
 ## 📈 GitHub Stats 📈
-<p align="left">
+<p align="center">
 <a href="https://github.com/aasifqadir">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aasifqadir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aasifqadir&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasifqadir&show_icons=true&theme=gotham&layout=compact" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasifqadir&theme=gotham" width="450" />
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasifqadir&show_icons=true&theme=gotham&layout=compact" width="450"/>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasifqadir&theme=gotham" width="450" />
-
 
