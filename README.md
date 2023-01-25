@@ -5,7 +5,7 @@
 <a href="https://twitter.com/aasif_qadir_786">
   <img align="left" alt=" Aasif's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/zahidarashid/">
+<a href="https://www.linkedin.com/in/aasifqadir/">
   <img align="left" alt="Aasif's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/aasifqadir/">
